@@ -15,10 +15,10 @@ layout: page
 
 ## HORAIRES
 * tous les jours :
-** de 13 h à 19 h (dernier départ à 18 h)
-** le matin, sur réservation (uniquement pour les groupes)
+  * de 13 h à 19 h (dernier départ à 18 h)
+  * le matin, sur réservation (uniquement pour les groupes)
 * dimanches et fêtes :
-** de 11 h à 19 h
+  * de 11 h à 19 h
  
 * Tél. : 07 83 72 20 30 
 
