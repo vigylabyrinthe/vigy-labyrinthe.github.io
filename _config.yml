@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+permalink: pretty
+relative_permalinks: false
+include: ['_pages']
+
+# Setup
+title:            'Vigy-Labyrinthe'
+tagline:          'Le Labyrinthe de Vigy'
+description:      'Partez sur plusieurs kilomètres, au hasard
+de nouveaux chemins, à la recherche de panneaux
+comportant plusieurs questionnaires sur
+différents thèmes...'
+url:              http://vigy-labyrinthe.com
+baseurl:          /
+
+author:
+  name:           'Adonis NAJIMI'
+  url:            https://github.com/AdoPi
+
+defaults:
+  - scope:
+      path: "public/galery"
+    values:
+      images: true
