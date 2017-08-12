@@ -19,7 +19,8 @@ author:
   url:            https://github.com/AdoPi
 
 defaults:
-  - scope:
+  - 
+    scope:
       path: "public/galery"
     values:
       images: true
