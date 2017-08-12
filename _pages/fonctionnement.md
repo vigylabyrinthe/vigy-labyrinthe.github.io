@@ -10,7 +10,7 @@ layout: page
 * sur réservation en semaine pour les groupes
  
 <center>
-<img src="{{ site.baseurl }}public/img/ecole.jpg"></img>
+<img src="{{ site.baseurl }}public/img/ecole.jpg">
 </center>
 
 ## HORAIRES
