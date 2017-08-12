@@ -11,5 +11,5 @@ Sur plusieurs kilomètres, au hasard de nouveaux chemins, les aventuriers d’un
  
 Conçu et géré par des bénévoles qui se sont constitués en association, le labyrinthe végétal de Vigy entame sa treizième saison.
 
-<center><img src="{{ site.baseurl }}public/img/chalet.jpg"></img></center>
+<center><img src="{{ site.baseurl }}public/img/chalet.jpg"></center>
 

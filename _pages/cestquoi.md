@@ -12,7 +12,7 @@ Conçu comme un divertissement original, le labyrinthe s’adresse à tous, peti
  
 Culture générale, logique, sens de l’orientation... sont les qualités requises pour déjouer les pièges que nous vous avons tendus.
 
-<img src="{{ site.baseurl }}public/img/groupe.jpg"></img>
+<img src="{{ site.baseurl }}public/img/groupe.jpg">
  
 Trois thèmes sont proposés aux adultes, un thème s'adresse aux ados, trois niveaux sont réservés aux enfants. Un coloriage permet aux plus petits de participer également Un parcours à faire seul, en famille ou entre amis.
 
