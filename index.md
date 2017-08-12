@@ -21,5 +21,5 @@ Les soirées nocturnes auront lieu les 5 et 19 Août 2017.
 * vigy-labyrinthe@orange.fr
 
 <center>
-<img src="{{ site.baseurl }}public/img/oie.jpg"></img>
+<img src="{{ site.baseurl }}public/img/oie.jpg">
 </center>
