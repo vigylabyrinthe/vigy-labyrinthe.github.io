@@ -6,6 +6,6 @@ layout: page
 
 {% for image in site.static_files %}
   {% if image.path contains 'public/galery' %}
-    <img style="display:inline-block" src="{{ image.path }}" alt="">
+    <img style="display:inline-block" src="{{ image.path }}" alt="{{ image.basename }}">
   {% endif %}
 {% endfor %}
