@@ -53,6 +53,14 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
+@media (max-width:48em) {
+  .sidebar {
+    position: top;
+    width: 18rem;
+    text-align: left;
+  }
+}
+
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
