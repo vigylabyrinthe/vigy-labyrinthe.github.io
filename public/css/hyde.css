@@ -60,7 +60,7 @@ html {
   background-color: #202020;
 }
 
-/*@media (min-width: 48em) {*/
+@media (min-width: 48em) {
   
   .sidebar {
     position: fixed;
@@ -70,7 +70,7 @@ html {
     width: 18rem;
     text-align: left;
   }
-/*}*/
+}
 
 
 /* Sidebar links */
@@ -108,14 +108,14 @@ a.sidebar-nav-item:focus {
  * contents to the bottom of the sidebar in tablets and up.
  */
 
-/*@media (min-width: 48em) {*/
+@media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
     bottom: 1rem;
     left:   1rem;
   }
-/*}*/
+}
 
 
 /* Container
