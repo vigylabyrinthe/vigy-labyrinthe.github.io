@@ -53,10 +53,15 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
+/* hack adonis */
 @media (max-width:48em) {
+  .sidebar > img {
+    display:hidden;
+  }
   .sidebar {
     float:left;
-    width: 18rem;
+    width: 100%;
+    height:5em;
     text-align: left;
   }
 }
