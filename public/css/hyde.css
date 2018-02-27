@@ -100,6 +100,15 @@ html {
     text-align: left;
   }
   
+  .sidebar-about {
+    display:inline-block;
+    width:20%;
+  }
+  .sidebar-nav {
+    display:inline-block;
+    width: 70%;
+  }
+  
 
   .sidebar-nav-item {
     display: inline-block;
