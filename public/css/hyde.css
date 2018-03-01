@@ -295,6 +295,7 @@ a.sidebar-nav-item:focus {
     width:44%;
     font-size: 0.9em;
     padding:3px;
+    background-color: #8f5533;
   }
   
   .sidebar-sticky p {
