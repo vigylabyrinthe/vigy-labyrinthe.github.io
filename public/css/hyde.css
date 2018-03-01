@@ -292,8 +292,8 @@ a.sidebar-nav-item:focus {
   
   .sidebar-nav-item {
     display:inline-block;
-    width:20%;
-    font-size: 0.7em;
+    width:44%;
+    font-size: 0.9em;
     padding:3px;
   }
   
