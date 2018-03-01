@@ -57,6 +57,7 @@ html {
 /* little hack adonis */
 .sidebar-about img {
   height:auto;
+  width:20%;
 }
 @media (max-width:47em) {
   .sidebar-about {
