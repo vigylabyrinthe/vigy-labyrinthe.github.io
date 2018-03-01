@@ -72,32 +72,32 @@ html {
     width:100%;
     position:fixed;
     top:0;
-    height:20em;
+    height:18em;
   }
   
   .sidebar-about img {
-    width:auto;
+    width:6em;
+    height:auto;
     position:fixed;
-    height:20em;
-    left:0;
-    top:0;
+    left:1em;
+    top:1em;
   }
   .sidebar {
     position:fixed;
     top:0;
     width: 100%;
-    height:20em;
+    height:18em;
     text-align: left;
   }
   .sidebar-sticky {
     position:fixed;
     top:0;
     width:100%;
-    height:20em;
+    height:18em;
     text-align:center;
   }
   .content {
-    margin-top:20em;
+    margin-top:18em;
   }
 }
 
