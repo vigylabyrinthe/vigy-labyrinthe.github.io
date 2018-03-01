@@ -65,7 +65,7 @@ html {
   
   
   .sidebar-sticky p {
-    bottom:0;
+    display:hidden;
   }
   
   .sidebar-nav {
