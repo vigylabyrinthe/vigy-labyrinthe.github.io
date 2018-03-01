@@ -63,10 +63,15 @@ html {
     width: 20%;
     display:inline-block;
   }
+  
+  .sidebar-nav {
+    height:10em;
+  }
+  
   .sidebar-about img {
     width:auto;
     position:fixed;
-    height:5em;
+    height:10em;
     left:0;
     top:0;
   }
@@ -74,12 +79,12 @@ html {
     position:fixed;
     top:0;
     width: 100%;
-    height:5em;
+    height:10em;
     text-align: left;
   }
   .container {
     width:100%;
-    height:5em;
+    height:10em;
     text-align:left;
   }
 }
