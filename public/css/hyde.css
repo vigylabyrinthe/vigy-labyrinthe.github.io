@@ -55,15 +55,17 @@ html {
  */
 
 /* little hack adonis */
-.sidebar-about img {
-  height:auto;
-}
 @media (max-width:47em) {
   .sidebar-about {
     width: 100;
     display:inline-block;
     position:fixed;
     top:0;
+  }
+  
+  
+  .sidebar-sticky p {
+    bottom:0;
   }
   
   .sidebar-nav {
