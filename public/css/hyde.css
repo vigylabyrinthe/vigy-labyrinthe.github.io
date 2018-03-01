@@ -292,7 +292,9 @@ a.sidebar-nav-item:focus {
   
   .sidebar-nav-item {
     display:inline-block;
-    width:30%;
+    width:20%;
+    font-size: 0.7em;
+    padding:3px;
   }
   
   .sidebar-sticky p {
@@ -300,7 +302,7 @@ a.sidebar-nav-item:focus {
   }
   
   .sidebar-nav {
-    width:50%;
+    width:60%;
     left:10em;
     position:fixed;
     top:0;
