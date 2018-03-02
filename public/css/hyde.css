@@ -337,6 +337,9 @@ a.sidebar-nav-item:focus {
   .sidebar-nav-item:nth-child(1) {
     display:none;
   }
+  .sidebar-nav-item:nth-child(6) {
+    display:none;
+  }
   .sidebar-nav-item:nth-child(10) {
     display:none;
   }
