@@ -295,7 +295,7 @@ a.sidebar-nav-item:focus {
     width:44%;
     font-size: 0.9em;
     padding:3px;
-    background-color: #8f5533;
+    /* background-color: #8f5533; */
   }
   
   .sidebar-sticky p {
@@ -332,7 +332,7 @@ a.sidebar-nav-item:focus {
     text-align:center;
   }
   .content {
-    margin-top:18em;
+    margin-top:10em;
   }
   .sidebar-nav-item:nth-child(1) {
     display:none;
