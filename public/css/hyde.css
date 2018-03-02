@@ -284,7 +284,7 @@ a.sidebar-nav-item:focus {
 /* little hack adonis */
 @media (max-width:47em) {
   .sidebar-about {
-    width: 100;
+    width: 10%;
     display:inline-block;
     position:fixed;
     top:0;
@@ -307,7 +307,7 @@ a.sidebar-nav-item:focus {
     left:7em;
     position:fixed;
     top:0;
-    height:18em;
+    height:10em;
   }
   
   .sidebar-about img {
@@ -321,18 +321,27 @@ a.sidebar-nav-item:focus {
     position:fixed;
     top:0;
     width: 100%;
-    height:18em;
+    height:10em;
     text-align: left;
   }
   .sidebar-sticky {
     position:fixed;
     top:0;
     width:100%;
-    height:18em;
+    height:10em;
     text-align:center;
   }
   .content {
     margin-top:18em;
+  }
+  .sidebar-nav:nth-child(1) {
+    display:none;
+  }
+  .sidebar-nav:nth-child(10) {
+    display:none;
+  }
+   .sidebar-nav:nth-child(8) {
+    display:none;
   }
 }
 
