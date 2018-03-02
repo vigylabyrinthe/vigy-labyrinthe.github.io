@@ -64,7 +64,6 @@ html {
 }
 
 @media (min-width: 48em) {
-   .
    .sidebar-sticky {
     position: absolute;
     right:  1rem;
@@ -80,10 +79,12 @@ html {
     text-align: left;
   }
   
+  /*
   .sidebar-about {
     display:inline-block;
     width:20%;
   }
+  */
   .sidebar-nav {
     display:inline-block;
     width: 70%;
