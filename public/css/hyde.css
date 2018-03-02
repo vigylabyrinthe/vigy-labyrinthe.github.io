@@ -334,13 +334,13 @@ a.sidebar-nav-item:focus {
   .content {
     margin-top:18em;
   }
-  .sidebar-nav:nth-child(1) {
+  .sidebar-nav-item:nth-child(1) {
     display:none;
   }
-  .sidebar-nav:nth-child(10) {
+  .sidebar-nav-item:nth-child(10) {
     display:none;
   }
-   .sidebar-nav:nth-child(8) {
+   .sidebar-nav-item:nth-child(8) {
     display:none;
   }
 }
