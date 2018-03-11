@@ -11,3 +11,5 @@ On pourra ensuite inclure l'image dans la page en utilisant une ligne de type
 
 en prenant bien soin de changer nom_image.jpg par le nom du fichier image.
 
+
+Site hébergé par Github, nom de domaine enregistré via OVH, DNS par CloudFlare.
