@@ -16,7 +16,7 @@ layout: page
   * Adulte : 3 €
   * Enfant : 2 € pour les moins de 12 ans
  
-* Groupe (à partir de 20 personnes) :
+* Groupe (plus de 20 personnes) :
   * Adulte : 2,50 €
   * Enfant : 1,50 € pour les moins de 12 ans
  
@@ -25,5 +25,5 @@ layout: page
   * Enfant : 6 € pour les moins de 12 ans
  
  
-Nos amis les animaux ne sont pas admis à l'intérieur du labyrinthe. Merci.
+Nos amis les animaux ne sont pas admis à l'intérieur du labyrinthe. Merci de votre compréhension.
 
