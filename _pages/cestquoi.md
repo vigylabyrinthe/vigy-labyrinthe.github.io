@@ -23,6 +23,6 @@ Valoriser, animer le site de la gare, rechercher des activités touristiques, sp
 
 Sur plusieurs kilomètres, au hasard de nouveaux chemins, les aventuriers d’un jour partiront à la recherche de panneaux comportant plusieurs questionnaires sur différents thèmes.
  
-Conçu et géré par des bénévoles qui se sont constitués en association, le labyrinthe végétal de Vigy entame sa treizième saison.
+Conçu et géré par des bénévoles qui se sont constitués en association, le labyrinthe végétal de Vigy entame sa seizième saison.
 
 <center><img src="{{ site.baseurl }}public/img/chalet.jpg"></center>
